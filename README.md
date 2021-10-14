@@ -2,7 +2,7 @@
 #### I am GitHub Readme Generator's creator
 ### Hi there 👋, <h1>my name is Print("TISHA")</h1>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you cannot copy/paste and not use in your profile.
 
 Skills: <h1>VUE JS / REACT / JS / HTML / CSS</h1>
 
