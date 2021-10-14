@@ -2,6 +2,18 @@
 #### I am GitHub Readme Generator's creator
 ### Hi there 👋, <h1>my name is Print("TISHA")</h1>
 
+<h2><b><i>Howdy , it's TISHA 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
+
+<h3><b><i> 👉About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Python , html , css </i></li>
+<li> 🤐 <i>Aim : Funny Time </i></li>
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you cannot copy/paste and not use in your profile.
 
 Skills: <h1>VUE JS / REACT / JS / HTML / CSS</h1>
