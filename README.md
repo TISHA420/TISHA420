@@ -13,6 +13,19 @@
 <li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python , html , css </i></li>
 <li> 🤐 <i>Aim : Funny Time </i></li>
+- [x] python
+  ```python
+  #!usr/bin/python
+  #-*-coding: utf-8-*-
+  
+  print ("Hello World...!")
+  ```
+
+<div align="center" width="50"> 
+</div>
+
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+felow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you cannot copy/paste and not use in your profile.
 
